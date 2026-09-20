@@ -1,0 +1,6 @@
+{
+  "name": "Receipts of a Life — The Signal Room",
+  "description": "Curated timeline console uniting Spotify music logs, household ledgers, and card transactions to evaluate behavioral clusters, unlock narrative chapters, and visualize the Life Arc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
